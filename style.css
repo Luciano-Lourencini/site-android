@@ -187,6 +187,7 @@ main aside ul{
 
 main aside li{
     list-style: '✔️\00a0';
+    padding-right: 25px;
 }
 
 footer{
